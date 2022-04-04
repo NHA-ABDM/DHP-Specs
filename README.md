@@ -1,4 +1,6 @@
-# Decentralized Health Protocol (DHP) Open API Specifications
+# This is forked from Decentralized Health Protocol (DHP) Open API Specifications
+
+# Following are Release details as when forked here
 
 ## Latest Release
 0.7.1 | December 28th 2021
